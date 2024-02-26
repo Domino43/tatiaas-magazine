@@ -1,8 +1,12 @@
 [{
-	"x":0,
-	"y":135,
-	"width":423,
-	"height":182,
-	"class":"zoom"
+	"x":22,
+	"y":568,
+	"width":130,
+	"height":12,
+	"class":"link",
+	"data":
+		{
+			"url": "https://cdn.glitch.global/822cb547-2562-4e40-939d-65ec1e8f2e5c/129.jpg?v=1708745819979"
+		}
 }
 ]
